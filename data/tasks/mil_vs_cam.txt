@@ -1,0 +1,2 @@
+What is the difference between Multiple Instance Learning based approaches and CAM based approaches in Weakly Supervised Object Detection approaches? 
+What are the advantages and the disadvantages of them?
