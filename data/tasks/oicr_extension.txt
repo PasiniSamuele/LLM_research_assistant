@@ -1,0 +1,1 @@
+How and in which works OICR architecure was adapted for the task of Weakly supervised object detection in remote sensing images?
